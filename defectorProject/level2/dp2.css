@@ -1,0 +1,17 @@
+body{
+    background-image: url("dp2.jpg");
+    background-size: 100%;
+}
+
+#defector{
+    width: 90px;
+    height: 90px;
+    left: 0;
+    right: 0;
+    position: absolute;
+    transition: all 1s ease;
+    background-color: #4655a2;
+    color: white;
+    font-size: 40px;
+    font-size: 20px;
+}
